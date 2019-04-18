@@ -1,0 +1,12 @@
+{
+  "type" : "success",
+  "content" : "",
+  "data" : [ {
+    "brand_code" : "A09",
+    "type_name" : "其他",
+    "month_count" : 16,
+    "brand_name" : "欧曼",
+    "type_code" : "Z-20108",
+    "day_count" : 12
+  } ]
+}

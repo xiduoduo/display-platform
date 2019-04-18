@@ -1,0 +1,48 @@
+{
+  "content": "",
+  "data": {
+    "data": [
+      {
+        "councilsName": "诸城市创宇物流有限公司",
+        "carBrand": "奥铃",
+        "endDate": "2019-03-12 09:52:47",
+        "arriveDate": "2019-03-11 09:59:25",
+        "councilsCode": "CY000058",
+        "orderNum": "0001408643",
+        "customerCode": "C000038093",
+        "customerName": "高密市华福汽车贸易有限公司龙和街店",
+        "tboxBeginDate": "2019-03-08 10:38:40",
+        "beginDate": "2019-03-09 17:37:02",
+        "carType": "TX",
+        "estimateBeginDate": "2019-03-10 09:59:25",
+        "sapEstimateBeginDate": "2019-03-08 00:00:00",
+        "driverName": "李言明",
+        "vin": "LVBV3PBB4KY021770",
+        "startLonLat": "119.38274;36.042225",
+        "sapArriveDate": "2019-03-10 00:00:00"
+      },
+      {
+        "endLonLat": "87.380695;43.894165",
+        "councilsName": "诸城市宝通物流有限公司",
+        "carBrand": "欧马可",
+        "endDate": "2019-03-12 09:51:54",
+        "arriveDate": "2019-03-12 15:39:24",
+        "councilsCode": "CY000056",
+        "orderNum": "0001401323",
+        "customerCode": "2010010916",
+        "customerName": "乌鲁木齐华通润源贸易有限公司",
+        "beginDate": "2019-02-28 18:19:11",
+        "carType": "LM2-欧马可1系",
+        "estimateBeginDate": "2019-03-02 15:39:24",
+        "sapEstimateBeginDate": "2019-02-28 00:00:00",
+        "driverName": "李金玉",
+        "vin": "LVBV3JBB0KY019950",
+        "startLonLat": "119.38179;36.04077",
+        "sapArriveDate": "2019-03-11 00:00:00"
+      }
+    ],
+    "type": "success"
+  },
+  "model": "vl_end",
+  "type": "success"
+}

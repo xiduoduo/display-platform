@@ -1,0 +1,9 @@
+{
+  "type" : "success",
+  "content" : "运输统计获取成功",
+  "data" : {
+    "TODAYARRIVECOUNT" : 1.0,
+    "WAITLEAVECOUNT" : 130.0,
+    "ONROADCOUNT" : 605.0
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "type" : "success",
+  "content" : "查询各省近一个月服务真实性排行成功",
+  "data" : [ {
+    "province" : "山西省",
+    "value" : "86.3"
+  }, {
+    "province" : "河北省",
+    "value" : "81.9"
+  }, {
+    "province" : "甘肃省",
+    "value" : "81.8"
+  }, {
+    "province" : "安徽省",
+    "value" : "81.5"
+  }, {
+    "province" : "山东省",
+    "value" : "81.1"
+  }, {
+    "province" : "河南省",
+    "value" : "79.8"
+  }, {
+    "province" : "青海省",
+    "value" : "79.5"
+  }, {
+    "province" : "江西省",
+    "value" : "78.6"
+  }, {
+    "province" : "四川省",
+    "value" : "77.0"
+  }, {
+    "province" : "内蒙古自治区",
+    "value" : "76.6"
+  }, {
+    "province" : "海南省",
+    "value" : "76.3"
+  }, {
+    "province" : "贵州省",
+    "value" : "75.2"
+  }, {
+    "province" : "江苏省",
+    "value" : "74.5"
+  }, {
+    "province" : "陕西省",
+    "value" : "74.3"
+  }, {
+    "province" : "上海市",
+    "value" : "72.5"
+  }, {
+    "province" : "湖南省",
+    "value" : "71.6"
+  }, {
+    "province" : "福建省",
+    "value" : "70.0"
+  }, {
+    "province" : "云南省",
+    "value" : "70.0"
+  }, {
+    "province" : "天津市",
+    "value" : "66.8"
+  }, {
+    "province" : "吉林省",
+    "value" : "66.3"
+  }, {
+    "province" : "黑龙江省",
+    "value" : "66.0"
+  }, {
+    "province" : "北京市",
+    "value" : "65.8"
+  }, {
+    "province" : "广东省",
+    "value" : "64.6"
+  }, {
+    "province" : "湖北省",
+    "value" : "63.4"
+  }, {
+    "province" : "新疆维吾尔自治区",
+    "value" : "58.9"
+  }, {
+    "province" : "广西壮族自治区",
+    "value" : "58.1"
+  }, {
+    "province" : "辽宁省",
+    "value" : "56.1"
+  }, {
+    "province" : "宁夏回族自治区",
+    "value" : "55.7"
+  }, {
+    "province" : "浙江省",
+    "value" : "55.6"
+  }, {
+    "province" : "西藏自治区",
+    "value" : "38.3"
+  }, {
+    "province" : "重庆市",
+    "value" : "33.8"
+  } ]
+}

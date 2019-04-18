@@ -1,0 +1,130 @@
+{
+  "data": {
+    "CommVehicle": [
+      {
+        "hour": "0",
+        "avgSpeed": 24.7
+      },
+      {
+        "hour": "1",
+        "avgSpeed": 25.9
+      },
+      {
+        "hour": "2",
+        "avgSpeed": 24.9
+      },
+      {
+        "hour": "3",
+        "avgSpeed": 28.5
+      },
+      {
+        "hour": "4",
+        "avgSpeed": 28.9
+      },
+      {
+        "hour": "5",
+        "avgSpeed": 24.6
+      },
+      {
+        "hour": "6",
+        "avgSpeed": 23.1
+      },
+      {
+        "hour": "7",
+        "avgSpeed": 20.2
+      },
+      {
+        "hour": "8",
+        "avgSpeed": 19.1
+      },
+      {
+        "hour": "9",
+        "avgSpeed": 19.0
+      },
+      {
+        "hour": "10",
+        "avgSpeed": 21.7
+      },
+      {
+        "hour": "11",
+        "avgSpeed": 21.7
+      },
+      {
+        "hour": "12",
+        "avgSpeed": 23.4
+      },
+      {
+        "hour": "13",
+        "avgSpeed": 19.8
+      },
+      {
+        "hour": "14",
+        "avgSpeed": 18.9
+      }
+    ],
+    "PassVehicle": [
+      {
+        "hour": "0",
+        "avgSpeed": 41.5
+      },
+      {
+        "hour": "1",
+        "avgSpeed": 41.4
+      },
+      {
+        "hour": "2",
+        "avgSpeed": 45.2
+      },
+      {
+        "hour": "3",
+        "avgSpeed": 49.0
+      },
+      {
+        "hour": "4",
+        "avgSpeed": 45.7
+      },
+      {
+        "hour": "5",
+        "avgSpeed": 42.1
+      },
+      {
+        "hour": "6",
+        "avgSpeed": 41.0
+      },
+      {
+        "hour": "7",
+        "avgSpeed": 36.0
+      },
+      {
+        "hour": "8",
+        "avgSpeed": 38.4
+      },
+      {
+        "hour": "9",
+        "avgSpeed": 45.9
+      },
+      {
+        "hour": "10",
+        "avgSpeed": 41.8
+      },
+      {
+        "hour": "11",
+        "avgSpeed": 41.2
+      },
+      {
+        "hour": "12",
+        "avgSpeed": 43.8
+      },
+      {
+        "hour": "13",
+        "avgSpeed": 46.0
+      },
+      {
+        "hour": "14",
+        "avgSpeed": 46.7
+      }
+    ]
+  },
+  "type": "success",
+  "content": "实时平均速度取得成功"
+}

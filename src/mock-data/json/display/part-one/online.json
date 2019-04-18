@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "stopCount": 14404,
+      "hour": "0",
+      "runCount": 203,
+      "realCount": 14607
+    },
+    {
+      "stopCount": 14412,
+      "hour": "1",
+      "runCount": 195,
+      "realCount": 14607
+    },
+    {
+      "stopCount": 14407,
+      "hour": "2",
+      "runCount": 200,
+      "realCount": 14607
+    },
+    {
+      "stopCount": 14409,
+      "hour": "3",
+      "runCount": 198,
+      "realCount": 14607
+    },
+    {
+      "stopCount": 14373,
+      "hour": "4",
+      "runCount": 234,
+      "realCount": 14607
+    },
+    {
+      "stopCount": 13472,
+      "hour": "5",
+      "runCount": 1136,
+      "realCount": 14608
+    },
+    {
+      "stopCount": 10929,
+      "hour": "6",
+      "runCount": 3698,
+      "realCount": 14627
+    },
+    {
+      "stopCount": 9528,
+      "hour": "7",
+      "runCount": 5108,
+      "realCount": 14636
+    }
+  ],
+  "type": "success",
+  "content": "实时在线车辆数取得成功"
+}

@@ -1,0 +1,24 @@
+{
+  "type" : "success",
+  "data" : [ {
+    "beginDate" : "2019-04-08 17:16:41",
+    "endDate" : "2019-04-09 07:18:45",
+    "tboxBeginDate" : "2019-03-20 17:37:15",
+    "tboxEndDate" : "2019-04-09 07:18:57",
+    "estimateBeginDate" : "2019-04-09 20:39:11",
+    "arriveDate" : "2019-04-11 20:39:11",
+    "sapEstimateBeginDate" : "2019-03-31 00:00:00",
+    "sapArriveDate" : "2019-04-02 00:00:00",
+    "orderNum" : "0001435093",
+    "driverName" : "王利国",
+    "councilsName" : "诸城市通顺运输有限公司",
+    "councilsCode" : "CY000090",
+    "customerCode" : "2010010039",
+    "customerName" : "北京北重汽车改装有限公司销售分公司",
+    "vin" : "LVCB2NWA2KS011779",
+    "carBrand" : "风景",
+    "carType" : "蒙派克S",
+    "startLonLat" : "119.27778;36.695557",
+    "endLonLat" : "116.062701;39.639855"
+  } ]
+}

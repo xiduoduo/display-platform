@@ -1,0 +1,10 @@
+{
+  "type" : "success",
+  "content" : "车辆数取得成功",
+  "data" : {
+    "ONLINENUM" : 10827.0,
+    "ALLNUM" : 21606.0,
+    "OFFLINENUM" : 10780.0,
+    "dayRegTerminalCount" : 0
+  }
+}

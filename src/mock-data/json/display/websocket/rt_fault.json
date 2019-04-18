@@ -1,0 +1,21 @@
+{
+  "content": "",
+  "data": {
+    "carBrandName": "欧曼",
+    "carTypeName": "ETX",
+    "clz": "new",
+    "code": "8020037",
+    "did": "A64838040780",
+    "latitude": "34.307391",
+    "longitude": "113.737400",
+    "lpn": "豫HK0304",
+    "mileage": "326510",
+    "runTimeInSeconds": "8730.0",
+    "startAddress": "河南省许昌市长葛市G107",
+    "startTime": 1551408899218,
+    "totalGrade": "86.0",
+    "vin": "LRDS6PEBXGH607597"
+  },
+  "model": "rt_fault",
+  "type": "success"
+}

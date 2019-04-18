@@ -1,0 +1,46 @@
+/**
+新能源皮肤样式：修改下面的色值，整体皮肤会变，如无需要请不要修改！！！
+如配置其他皮肤，请将整体green包复制，单独修改自己需要皮肤...
+ */
+$global: rgb(51, 51, 51); // 共用颜色
+$color9cf625: #9cf625;
+$color1ed89a: #1ed89a;
+$color00de98: #00de98;
+$bg: #1c232b; // 背景颜色
+$blockTop01: '~@/assets/green/img/block/1.1.png';
+$blockBtm01: '~@/assets/green/img/block/1.3.png';
+$blockBg01: '~@/assets/green/img/block/1.2.png';
+$blockTop02: '~@/assets/green/img/block/2.1.png';
+$blockBtm02: '~@/assets/green/img/block/2.3.png';
+$blockBg02: '~@/assets/green/img/block/2.2.png';
+$blockTop03: '~@/assets/green/img/block/3.1.png';
+$blockBtm03: '~@/assets/green/img/block/3.3.png';
+$blockBg03: '~@/assets/green/img/block/3.2.png';
+$blockTop04: '~@/assets/green/img/block/4.1.png';
+$blockBtm04: '~@/assets/green/img/block/4.3.png';
+$blockBg04: '~@/assets/green/img/block/4.2.png';
+$blockTop05: '~@/assets/green/img/block/5.1.png';
+$blockBtm05: '~@/assets/green/img/block/5.3.png';
+$blockBg05: '~@/assets/green/img/block/5.2.png';
+$blockTop06: '~@/assets/green/img/block/6.1.png';
+$blockBtm06: '~@/assets/green/img/block/6.3.png';
+$blockBg06: '~@/assets/green/img/block/6.2.png';
+$blockTop07: '~@/assets/green/img/block/7.1.png';
+$blockBtm07: '~@/assets/green/img/block/7.3.png';
+$blockBg07: '~@/assets/green/img/block/7.2.png';
+$blockTop08: '~@/assets/green/img/block/8.1.png';
+$blockBtm08: '~@/assets/green/img/block/8.3.png';
+$blockBg08: '~@/assets/green/img/block/8.2.png';
+$blockTop09: '~@/assets/green/img/block/9.1.png';
+$blockBtm09: '~@/assets/green/img/block/9.3.png';
+$blockBg09: '~@/assets/green/img/block/9.2.png';
+$blockTop10: '~@/assets/green/img/block/10.1.png';
+$blockBtm10: '~@/assets/green/img/block/10.3.png';
+$blockBg10: '~@/assets/green/img/block/10.2.png';
+@mixin colors {
+  .green { // 对应路由[?theme=name],下的name
+    @content;
+  }
+}
+
+@import "../theme.globle";

@@ -1,0 +1,9 @@
+{
+  "type" : "success",
+  "data" : {
+    "mileage" : 888125637,
+    "total_power" : 21792923097,
+    "run_Time" : 32150410,
+    "total_reduce" : 50945506
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "data": {
+    "CommVehicle": [
+      {
+        "hour": "0",
+        "avgSpeed": 53.8
+      },
+      {
+        "hour": "1",
+        "avgSpeed": 56.1
+      },
+      {
+        "hour": "2",
+        "avgSpeed": 53.2
+      },
+      {
+        "hour": "3",
+        "avgSpeed": 52.1
+      },
+      {
+        "hour": "4",
+        "avgSpeed": 49.1
+      },
+      {
+        "hour": "5",
+        "avgSpeed": 40.4
+      },
+      {
+        "hour": "6",
+        "avgSpeed": 33.1
+      },
+      {
+        "hour": "7",
+        "avgSpeed": 31.2
+      },
+      {
+        "hour": "8",
+        "avgSpeed": 32.0
+      },
+      {
+        "hour": "9",
+        "avgSpeed": 32.5
+      }
+    ],
+    "PassVehicle": []
+  },
+  "type": "success",
+  "content": "实时平均速度取得成功"
+}

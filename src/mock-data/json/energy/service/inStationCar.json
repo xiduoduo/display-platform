@@ -1,0 +1,44 @@
+{
+  "type" : "success",
+  "content" : "查询服务站今日在站车辆数成功",
+  "data" : [ {
+    "provice" : "北京市",
+    "count" : 32
+  }, {
+    "provice" : "山东省",
+    "count" : 14
+  }, {
+    "provice" : "河北省",
+    "count" : 8
+  }, {
+    "provice" : "河南省",
+    "count" : 6
+  }, {
+    "provice" : "浙江省",
+    "count" : 5
+  }, {
+    "provice" : "广东省",
+    "count" : 3
+  }, {
+    "provice" : "重庆市",
+    "count" : 2
+  }, {
+    "provice" : "四川省",
+    "count" : 1
+  }, {
+    "provice" : "云南省",
+    "count" : 1
+  }, {
+    "provice" : "江西省",
+    "count" : 1
+  }, {
+    "provice" : "广西壮族自治区",
+    "count" : 1
+  }, {
+    "provice" : "江苏省",
+    "count" : 1
+  }, {
+    "provice" : "内蒙古自治区",
+    "count" : 1
+  } ]
+}

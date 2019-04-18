@@ -1,0 +1,72 @@
+{
+  "ALL": {
+    "type" : "success",
+    "content" : "车辆数取得成功",
+    "data" : {
+      "ONLINENUM" : 132761.0,
+      "ALLNUM" : 2209,
+      "OFFLINENUM" : 182518.0,
+      "dayRegTerminalCount" : 166
+    }
+  },
+  "OUMAN": {
+    "type" : "success",
+    "content" : "车辆数取得成功",
+    "data" : {
+      "ONLINENUM" : 232761.0,
+      "ALLNUM" : 215278.0,
+      "OFFLINENUM" : 282518.0,
+      "dayRegTerminalCount" : 266
+    }
+  },
+  "OUMAKE": {
+    "type" : "success",
+    "content" : "车辆数取得成功",
+    "data" : {
+      "ONLINENUM" : 332761.0,
+      "ALLNUM" : 315278.0,
+      "OFFLINENUM" : 382518.0,
+      "dayRegTerminalCount" : 366
+    }
+  },
+  "AOLING": {
+    "type" : "success",
+    "content" : "车辆数取得成功",
+    "data" : {
+      "ONLINENUM" : 432761.0,
+      "ALLNUM" : 415278.0,
+      "OFFLINENUM" : 482518.0,
+      "dayRegTerminalCount" : 466
+    }
+  },
+  "SHIDAI": {
+    "type" : "success",
+    "content" : "车辆数取得成功",
+    "data" : {
+      "ONLINENUM" : 532761.0,
+      "ALLNUM" : 515278.0,
+      "OFFLINENUM" : 582518.0,
+      "dayRegTerminalCount" : 566
+    }
+  },
+  "LEISA": {
+    "type" : "success",
+    "content" : "车辆数取得成功",
+    "data" : {
+      "ONLINENUM" : 632761.0,
+      "ALLNUM" : 615278.0,
+      "OFFLINENUM" : 682518.0,
+      "dayRegTerminalCount" : 666
+    }
+  },
+  "OUHUI": {
+    "type" : "success",
+    "content" : "车辆数取得成功",
+    "data" : {
+      "ONLINENUM" : 732761.0,
+      "ALLNUM" : 715278.0,
+      "OFFLINENUM" : 782518.0,
+      "dayRegTerminalCount" : 766
+    }
+  }
+}

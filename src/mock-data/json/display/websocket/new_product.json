@@ -1,0 +1,38 @@
+{
+  "content": "",
+  "data": {
+    "data": [
+      {
+        "energyMode": "oilDriven",
+        "cycle": 0,
+        "vin": "LVBV3JBB9KY022765",
+        "openTime": "2019-03-12 09:45:02",
+        "carTypeName": "其他",
+        "carBrandName": "奥铃",
+        "cycleName": "生产"
+      },
+      {
+        "energyMode": "oilDriven",
+        "cycle": 0,
+        "vin": "LVBV5PBB5KW004353",
+        "openTime": "2019-03-12 09:44:23",
+        "carTypeName": "其他",
+        "carBrandName": "时代",
+        "cycleName": "生产"
+      },
+      {
+        "energyMode": "oilDriven",
+        "cycle": 0,
+        "vin": "LRDS6PEB6KT008959",
+        "openTime": "2019-03-12 09:44:13",
+        "carTypeName": "其他",
+        "carBrandName": "欧曼",
+        "cycleName": "生产"
+      }
+    ],
+    "type": "success",
+    "content": ""
+  },
+  "model": "new_product",
+  "type": "success"
+}

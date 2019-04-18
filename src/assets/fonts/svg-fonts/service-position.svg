@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+  <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+  <svg>
+  <metadata>
+  Created by font-carrier
+  </metadata>
+  <defs>
+  <font id="iconfont" horiz-adv-x="1024" vert-adv-y="1024" >
+    <font-face
+      
+      font-family="iconfont"
+      
+      font-weight="400"
+      
+      font-stretch="normal"
+      
+      units-per-em="1024"
+      
+      ascent="812"
+      
+      descent="-212"
+      
+    />
+      <missing-glyph />
+
+      
+      <glyph glyph-name="x" unicode="&#x78;" horiz-adv-x="100"
+        d="M20 20 L50 20 L50 -20 Z" />
+      
+
+      
+      <glyph glyph-name="我" unicode="&#x6211;" d="M372-210.814C360.375-210.814 354.237-209.047 349.866-204.397 347.634-201.421 101.277 106.595 35.991 256.232 12.183 309.428 0 367.832 0 424.562 0 637.904 166.656 812 372 812 577.344 812 744 637.253 744 422.237 744 357.323 732.375 308.219 704.103 252.698 626.076 99.527 396.366-200.305 394.134-203.188 391.344-206.722 386.415-210.163 372.558-210.163L372-210.814ZM372 624.791C270.072 624.791 187.395 541.835 187.395 439.628 187.395 337.328 270.072 254.465 372 254.465 473.928 254.465 556.605 337.328 556.605 439.628 556.605 541.835 473.928 624.791 372 624.791L372 624.791Z"  horiz-adv-x="744" vert-adv-y="1024"  />
+
+      
+
+  </font>
+  </defs>
+</svg>

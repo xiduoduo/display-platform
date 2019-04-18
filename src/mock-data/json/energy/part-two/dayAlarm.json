@@ -1,0 +1,941 @@
+{
+  "type" : "success",
+  "content" : "获取报警数据成功",
+  "data" : [ {
+    "alarmCount" : "152",
+    "alarmName" : "电子水平仪测量范围超限"
+  }, {
+    "alarmCount" : "1075",
+    "alarmName" : "油泵DC/AC故障"
+  }, {
+    "alarmCount" : "123",
+    "alarmName" : "档位过高"
+  }, {
+    "alarmCount" : "122",
+    "alarmName" : "GPS五级报警"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "本地锁机报警"
+  }, {
+    "alarmCount" : "127839",
+    "alarmName" : "RS232导出接口"
+  }, {
+    "alarmCount" : "439",
+    "alarmName" : "YV4回路短路"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "五臂无杆腔传感器故障"
+  }, {
+    "alarmCount" : "2580551",
+    "alarmName" : "制动灯故障状态"
+  }, {
+    "alarmCount" : "35952197",
+    "alarmName" : "电机控制器过压故障"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "液压油温严重低"
+  }, {
+    "alarmCount" : "1538",
+    "alarmName" : "第 13箱连接故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "旁通阀端口短路故障"
+  }, {
+    "alarmCount" : "1632",
+    "alarmName" : "第 1箱连接故障"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "水泵杜塞，操作限制"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "液压油温传感器故障"
+  }, {
+    "alarmCount" : "68556",
+    "alarmName" : "YB1缩臂回路断路"
+  }, {
+    "alarmCount" : "816674",
+    "alarmName" : "终端主电源状态"
+  }, {
+    "alarmCount" : "138",
+    "alarmName" : "主油缸B报警"
+  }, {
+    "alarmCount" : "1539",
+    "alarmName" : "第 12箱连接故障"
+  }, {
+    "alarmCount" : "983296966",
+    "alarmName" : "GNSS天线未接或被剪断"
+  }, {
+    "alarmCount" : "2051",
+    "alarmName" : "与LECU通信报警"
+  }, {
+    "alarmCount" : "2964460",
+    "alarmName" : "燃料指示器1中的水"
+  }, {
+    "alarmCount" : "438",
+    "alarmName" : "YV6回路短路"
+  }, {
+    "alarmCount" : "525583",
+    "alarmName" : "SOC低报警"
+  }, {
+    "alarmCount" : "3622478",
+    "alarmName" : "电池单体一致性差报警"
+  }, {
+    "alarmCount" : "7780440",
+    "alarmName" : "车辆非法点火"
+  }, {
+    "alarmCount" : "776",
+    "alarmName" : "臂架角度通信故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "GPS二级报警"
+  }, {
+    "alarmCount" : "94224",
+    "alarmName" : "单体蓄电池欠压报警"
+  }, {
+    "alarmCount" : "4921569",
+    "alarmName" : "随动转向锁止"
+  }, {
+    "alarmCount" : "1467250",
+    "alarmName" : "DC/DC状态报警"
+  }, {
+    "alarmCount" : "155",
+    "alarmName" : "4臂收回多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "39931261",
+    "alarmName" : "电机控制器超速故障"
+  }, {
+    "alarmCount" : "14790",
+    "alarmName" : "整车系统故障"
+  }, {
+    "alarmCount" : "41421",
+    "alarmName" : "YB4主卷起升回路断路"
+  }, {
+    "alarmCount" : "131",
+    "alarmName" : "档位过低"
+  }, {
+    "alarmCount" : "1562",
+    "alarmName" : "第 9箱连接故障"
+  }, {
+    "alarmCount" : "165524",
+    "alarmName" : "USB导出接口"
+  }, {
+    "alarmCount" : "124",
+    "alarmName" : "GPS三级报警"
+  }, {
+    "alarmCount" : "38666",
+    "alarmName" : "机油压力报警信号"
+  }, {
+    "alarmCount" : "105337947",
+    "alarmName" : "GNSS模块故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "7臂收回多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "180",
+    "alarmName" : "油温报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "GPS一级报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "5臂收回多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "94145",
+    "alarmName" : "YV2自由滑转回路断路"
+  }, {
+    "alarmCount" : "33664",
+    "alarmName" : "三臂有杆腔传感器故障"
+  }, {
+    "alarmCount" : "135",
+    "alarmName" : "油温过低报警"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "摆缸电磁阀故障"
+  }, {
+    "alarmCount" : "1102",
+    "alarmName" : "发动机冷却液温度报警"
+  }, {
+    "alarmCount" : "271575",
+    "alarmName" : "进出线路"
+  }, {
+    "alarmCount" : "4739",
+    "alarmName" : "压力传感器C故障"
+  }, {
+    "alarmCount" : "122",
+    "alarmName" : "滤油堵塞报警"
+  }, {
+    "alarmCount" : "3700",
+    "alarmName" : "单体电压不均衡报警"
+  }, {
+    "alarmCount" : "344",
+    "alarmName" : "近控急停"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "距离高压源达到5级危险范"
+  }, {
+    "alarmCount" : "1633",
+    "alarmName" : "第 4箱连接故障"
+  }, {
+    "alarmCount" : "298",
+    "alarmName" : "液压油位传感器故障"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "发动机 CAN 总线故障"
+  }, {
+    "alarmCount" : "310038",
+    "alarmName" : "车辆油量异常"
+  }, {
+    "alarmCount" : "146",
+    "alarmName" : "温度过高报警"
+  }, {
+    "alarmCount" : "4198",
+    "alarmName" : "仪表系统故障"
+  }, {
+    "alarmCount" : "309998",
+    "alarmName" : "道路运输证IC卡模块故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "支腿阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "255",
+    "alarmName" : "油温过低报警"
+  }, {
+    "alarmCount" : "9026058",
+    "alarmName" : "驾驶室锁止"
+  }, {
+    "alarmCount" : "186",
+    "alarmName" : "遥控急停"
+  }, {
+    "alarmCount" : "4012",
+    "alarmName" : "整车绝缘故障"
+  }, {
+    "alarmCount" : "11583",
+    "alarmName" : "过卷指示灯"
+  }, {
+    "alarmCount" : "15879",
+    "alarmName" : "二臂无杆腔传感器故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "电比例阀2端口断路或短路故障"
+  }, {
+    "alarmCount" : "1141",
+    "alarmName" : "YB3副卷起升回路短路"
+  }, {
+    "alarmCount" : "176",
+    "alarmName" : "油温传感器报警"
+  }, {
+    "alarmCount" : "6464259",
+    "alarmName" : "车辆非法位移"
+  }, {
+    "alarmCount" : "43019",
+    "alarmName" : "车载储能装置类型过充报警"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "终端通信故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "接近开关报警"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "泵送接近开关 A 故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "臂架冗余阀端口断路故障"
+  }, {
+    "alarmCount" : "90619",
+    "alarmName" : "车载储能装置类型欠压报警"
+  }, {
+    "alarmCount" : "127799",
+    "alarmName" : "加密模块"
+  }, {
+    "alarmCount" : "4321",
+    "alarmName" : "电机及MCU系统故障"
+  }, {
+    "alarmCount" : "42202955",
+    "alarmName" : "高压互锁报警"
+  }, {
+    "alarmCount" : "14508863",
+    "alarmName" : "电机控制器逆变器过温故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "超速报警"
+  }, {
+    "alarmCount" : "46749",
+    "alarmName" : "YB3副卷起升回路断路"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "风冷阀故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "5臂展开多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "主缸 B 电磁阀断路"
+  }, {
+    "alarmCount" : "1600",
+    "alarmName" : "油箱堵塞指示"
+  }, {
+    "alarmCount" : "8557",
+    "alarmName" : "单体电压过低"
+  }, {
+    "alarmCount" : "153",
+    "alarmName" : "泵送速度报警"
+  }, {
+    "alarmCount" : "122",
+    "alarmName" : "GPS本地预锁机"
+  }, {
+    "alarmCount" : "10209",
+    "alarmName" : "BMS系统故障"
+  }, {
+    "alarmCount" : "157",
+    "alarmName" : "档位过高"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "7臂展开多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "GPS本地锁机"
+  }, {
+    "alarmCount" : "1248",
+    "alarmName" : "油泵DC/AC故障"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "主油泵电磁阀断路"
+  }, {
+    "alarmCount" : "92738",
+    "alarmName" : "电机控制器温度报警"
+  }, {
+    "alarmCount" : "1538",
+    "alarmName" : "第 15箱连接故障"
+  }, {
+    "alarmCount" : "170",
+    "alarmName" : "Y轴侧倾"
+  }, {
+    "alarmCount" : "127",
+    "alarmName" : "液压油位报警1"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "1臂收回多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "四臂无杆腔传感器故障"
+  }, {
+    "alarmCount" : "1618",
+    "alarmName" : "24V蓄电池欠压"
+  }, {
+    "alarmCount" : "314345",
+    "alarmName" : "摄像头故障"
+  }, {
+    "alarmCount" : "124",
+    "alarmName" : "料斗开关报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "距离高压源达到1级危险范围，请注意"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "防溜缸阀端口短路故障"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "搅拌使能阀断路"
+  }, {
+    "alarmCount" : "159",
+    "alarmName" : "主油缸A报警"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "搅拌使能阀短路"
+  }, {
+    "alarmCount" : "1069",
+    "alarmName" : "放电过流报警"
+  }, {
+    "alarmCount" : "113903",
+    "alarmName" : "刹车蹄片磨损报警"
+  }, {
+    "alarmCount" : "153",
+    "alarmName" : "臂架干涉，请终止操作错误"
+  }, {
+    "alarmCount" : "15876",
+    "alarmName" : "二臂有杆腔传感器故障"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "压力传感器故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "GPS四级报警"
+  }, {
+    "alarmCount" : "127773",
+    "alarmName" : "摄像头6状态"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "主系统开启阀端口断路故障"
+  }, {
+    "alarmCount" : "439",
+    "alarmName" : "YA1伸臂回路短路"
+  }, {
+    "alarmCount" : "30076",
+    "alarmName" : "SOC过高报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "摆缸油泵电流端口断路或短路故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "2臂展开多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "165",
+    "alarmName" : "遥控器通信故障"
+  }, {
+    "alarmCount" : "1679",
+    "alarmName" : "第 5箱连接故障"
+  }, {
+    "alarmCount" : "158",
+    "alarmName" : "X轴侧倾"
+  }, {
+    "alarmCount" : "186",
+    "alarmName" : "GPS通信故障"
+  }, {
+    "alarmCount" : "5034",
+    "alarmName" : "摄像头1状态"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "远程锁机报警"
+  }, {
+    "alarmCount" : "2492",
+    "alarmName" : "低水位报警"
+  }, {
+    "alarmCount" : "83826515",
+    "alarmName" : "GNSS天线状态"
+  }, {
+    "alarmCount" : "11608",
+    "alarmName" : "后桥制动气压报警"
+  }, {
+    "alarmCount" : "1319",
+    "alarmName" : "臂架角度通信故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "压力传感器D故障"
+  }, {
+    "alarmCount" : "130",
+    "alarmName" : "12V蓄电池欠压报警"
+  }, {
+    "alarmCount" : "171",
+    "alarmName" : "水位低或者水位开关故障"
+  }, {
+    "alarmCount" : "162",
+    "alarmName" : "主油缸B报警"
+  }, {
+    "alarmCount" : "1578",
+    "alarmName" : "第 8箱连接故障"
+  }, {
+    "alarmCount" : "4134",
+    "alarmName" : "充电过流报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "右限位报警"
+  }, {
+    "alarmCount" : "4622",
+    "alarmName" : "温度不均衡"
+  }, {
+    "alarmCount" : "45831",
+    "alarmName" : "YV6回路断路"
+  }, {
+    "alarmCount" : "153",
+    "alarmName" : "左限位报警"
+  }, {
+    "alarmCount" : "438",
+    "alarmName" : "YV2自由滑转回路短路"
+  }, {
+    "alarmCount" : "5290475",
+    "alarmName" : "驻车制动(手刹)"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "四臂有杆腔传感器故障"
+  }, {
+    "alarmCount" : "136",
+    "alarmName" : "油温传感器报警"
+  }, {
+    "alarmCount" : "570",
+    "alarmName" : "过放指示灯"
+  }, {
+    "alarmCount" : "1539",
+    "alarmName" : "第 10箱连接故障"
+  }, {
+    "alarmCount" : "438",
+    "alarmName" : "YV3自由滑转回路短路"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "1臂展开多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "4臂展开多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "11515",
+    "alarmName" : "YA4主卷下降回路短路"
+  }, {
+    "alarmCount" : "128",
+    "alarmName" : "GPS一级报警"
+  }, {
+    "alarmCount" : "163092",
+    "alarmName" : "车载储能装置类型过压报警"
+  }, {
+    "alarmCount" : "125",
+    "alarmName" : "右限位报警"
+  }, {
+    "alarmCount" : "1608",
+    "alarmName" : "单体过压报警"
+  }, {
+    "alarmCount" : "122",
+    "alarmName" : "超速报警"
+  }, {
+    "alarmCount" : "975",
+    "alarmName" : "GPS远程预锁机"
+  }, {
+    "alarmCount" : "1212",
+    "alarmName" : "YB1缩臂回路短路"
+  }, {
+    "alarmCount" : "40130",
+    "alarmName" : "YV4回路断路"
+  }, {
+    "alarmCount" : "149348",
+    "alarmName" : "制动系统失效"
+  }, {
+    "alarmCount" : "1414",
+    "alarmName" : "油温报警"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "液压油温严重高"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "2臂收回多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "1075",
+    "alarmName" : "气泵DC/AC故障"
+  }, {
+    "alarmCount" : "153",
+    "alarmName" : "3臂收回多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "138",
+    "alarmName" : "接近开关报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "臂架泵电流端口断路或短路故障"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "泵送中，水泵操作临时受限"
+  }, {
+    "alarmCount" : "1335",
+    "alarmName" : "DC/DC三级故障"
+  }, {
+    "alarmCount" : "419",
+    "alarmName" : "遥控急停"
+  }, {
+    "alarmCount" : "89362",
+    "alarmName" : "制动/离合液位低"
+  }, {
+    "alarmCount" : "5489",
+    "alarmName" : "单体欠压报警"
+  }, {
+    "alarmCount" : "7662040",
+    "alarmName" : "货箱倾翻指示"
+  }, {
+    "alarmCount" : "32125034",
+    "alarmName" : "电机绕组温度传感器故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "臂架冗余阀端口短路故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "距离高压源达到4级危险范"
+  }, {
+    "alarmCount" : "5144256",
+    "alarmName" : "GNSS天线短路"
+  }, {
+    "alarmCount" : "309999",
+    "alarmName" : "非法开门报警"
+  }, {
+    "alarmCount" : "42155",
+    "alarmName" : "YA4主卷下降回路断路"
+  }, {
+    "alarmCount" : "122",
+    "alarmName" : "档位不到位"
+  }, {
+    "alarmCount" : "164807",
+    "alarmName" : "DC/DC温度报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "GPS通信故障"
+  }, {
+    "alarmCount" : "5121",
+    "alarmName" : "充电过流"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "比例减压阀或电比例阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "318768",
+    "alarmName" : "线束断开状态"
+  }, {
+    "alarmCount" : "1622",
+    "alarmName" : "第 7箱连接故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "距离高压源达到6级危险范"
+  }, {
+    "alarmCount" : "25678513",
+    "alarmName" : "水温高报警灯状态"
+  }, {
+    "alarmCount" : "165",
+    "alarmName" : "液压油位报警2"
+  }, {
+    "alarmCount" : "163",
+    "alarmName" : "底盘CAN总线通讯故障！"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "主油泵电磁阀短路"
+  }, {
+    "alarmCount" : "1560",
+    "alarmName" : "第 16箱连接故障"
+  }, {
+    "alarmCount" : "27813",
+    "alarmName" : "水位低或者水位开关故障"
+  }, {
+    "alarmCount" : "2068",
+    "alarmName" : "总电压过低"
+  }, {
+    "alarmCount" : "104553",
+    "alarmName" : "绝缘报警"
+  }, {
+    "alarmCount" : "974",
+    "alarmName" : "电流传感器故障"
+  }, {
+    "alarmCount" : "1412",
+    "alarmName" : "中桥制动气压报警"
+  }, {
+    "alarmCount" : "438",
+    "alarmName" : "先导油路堵塞指示"
+  }, {
+    "alarmCount" : "189",
+    "alarmName" : "电子水平仪线路故障或损坏"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "3臂展开多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "4336",
+    "alarmName" : "YB4主卷起升回路短路"
+  }, {
+    "alarmCount" : "122",
+    "alarmName" : "GPS本地锁机"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "远程预锁机报警"
+  }, {
+    "alarmCount" : "137",
+    "alarmName" : "近控急停"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "GSM信号丢失6小时以上,累计12小时后进入锁机倒计时！"
+  }, {
+    "alarmCount" : "114987",
+    "alarmName" : "气压过低报警状态"
+  }, {
+    "alarmCount" : "107789",
+    "alarmName" : "驱动电机温度报警"
+  }, {
+    "alarmCount" : "130",
+    "alarmName" : "遥控器通信故障"
+  }, {
+    "alarmCount" : "165",
+    "alarmName" : "低压阀端口断路故障"
+  }, {
+    "alarmCount" : "12678",
+    "alarmName" : "前桥制动气压报警"
+  }, {
+    "alarmCount" : "127773",
+    "alarmName" : "摄像头3状态"
+  }, {
+    "alarmCount" : "251636",
+    "alarmName" : "单体蓄电池过压报警"
+  }, {
+    "alarmCount" : "46428",
+    "alarmName" : "充电储能系统不匹配报警"
+  }, {
+    "alarmCount" : "125",
+    "alarmName" : "液压油位报警2"
+  }, {
+    "alarmCount" : "6088",
+    "alarmName" : "SOC低报警(BMS)"
+  }, {
+    "alarmCount" : "185",
+    "alarmName" : "液压油位传感器故障"
+  }, {
+    "alarmCount" : "1607",
+    "alarmName" : "第 2箱连接故障"
+  }, {
+    "alarmCount" : "42086",
+    "alarmName" : "YA2变幅落回路断路"
+  }, {
+    "alarmCount" : "122",
+    "alarmName" : "GPS四级报警"
+  }, {
+    "alarmCount" : "1540",
+    "alarmName" : "第 14箱连接故障"
+  }, {
+    "alarmCount" : "1155",
+    "alarmName" : "YA3副卷下降回路短路"
+  }, {
+    "alarmCount" : "93547",
+    "alarmName" : "YV3自由滑转回路断路"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "冷却阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "158",
+    "alarmName" : "液压油位报警1"
+  }, {
+    "alarmCount" : "982",
+    "alarmName" : "温度传感器故障"
+  }, {
+    "alarmCount" : "124",
+    "alarmName" : "GPS二级报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "GSM信号丢失3小时以上,累计12小时后进入锁机倒计时！"
+  }, {
+    "alarmCount" : "12802052",
+    "alarmName" : "侧翻报警"
+  }, {
+    "alarmCount" : "73830",
+    "alarmName" : "空滤阻塞报警"
+  }, {
+    "alarmCount" : "47901",
+    "alarmName" : "YA1伸臂回路断路"
+  }, {
+    "alarmCount" : "1478269",
+    "alarmName" : "门泵应急阀开关报警"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "主缸A电磁阀短路"
+  }, {
+    "alarmCount" : "969",
+    "alarmName" : "GPS远程锁机"
+  }, {
+    "alarmCount" : "1020",
+    "alarmName" : "五支腿超载指示"
+  }, {
+    "alarmCount" : "1612",
+    "alarmName" : "第 3箱连接故障"
+  }, {
+    "alarmCount" : "5472987",
+    "alarmName" : "制动系统报警"
+  }, {
+    "alarmCount" : "156976",
+    "alarmName" : "司机卡模块状态"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "低压阀端口短路故障"
+  }, {
+    "alarmCount" : "4336",
+    "alarmName" : "YA2变幅落回路短路"
+  }, {
+    "alarmCount" : "77329",
+    "alarmName" : "真空度低报警"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "液压油温低"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "主缸A电磁阀断路"
+  }, {
+    "alarmCount" : "5090712",
+    "alarmName" : "取力器"
+  }, {
+    "alarmCount" : "49222",
+    "alarmName" : "YA3副卷下降回路断路"
+  }, {
+    "alarmCount" : "973",
+    "alarmName" : "电池欠温报警"
+  }, {
+    "alarmCount" : "141",
+    "alarmName" : "主油缸A报警"
+  }, {
+    "alarmCount" : "4439",
+    "alarmName" : "总电压过高"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "液压油温高"
+  }, {
+    "alarmCount" : "5144310",
+    "alarmName" : "轴间差速锁"
+  }, {
+    "alarmCount" : "310002",
+    "alarmName" : "TTS模块故障"
+  }, {
+    "alarmCount" : "127773",
+    "alarmName" : "摄像头5状态"
+  }, {
+    "alarmCount" : "168",
+    "alarmName" : "GPS远程锁机"
+  }, {
+    "alarmCount" : "14553392",
+    "alarmName" : "电机控制器过流故障"
+  }, {
+    "alarmCount" : "211277",
+    "alarmName" : "驾驶室未锁止状态"
+  }, {
+    "alarmCount" : "127773",
+    "alarmName" : "摄像头4状态"
+  }, {
+    "alarmCount" : "7660112",
+    "alarmName" : "转向液位低"
+  }, {
+    "alarmCount" : "2071660",
+    "alarmName" : "车辆VSS故障"
+  }, {
+    "alarmCount" : "67214",
+    "alarmName" : "电池高温报警"
+  }, {
+    "alarmCount" : "42155",
+    "alarmName" : "YV5使能阀回路断路"
+  }, {
+    "alarmCount" : "7810006",
+    "alarmName" : "空滤堵塞"
+  }, {
+    "alarmCount" : "33392124",
+    "alarmName" : "电机控制器电机绕组过温故障"
+  }, {
+    "alarmCount" : "1601",
+    "alarmName" : "第 6箱连接故障"
+  }, {
+    "alarmCount" : "907515",
+    "alarmName" : "摄像头2状态"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "料斗开关报警"
+  }, {
+    "alarmCount" : "143",
+    "alarmName" : "泵送速度报警"
+  }, {
+    "alarmCount" : "7747",
+    "alarmName" : "气泵故障等级"
+  }, {
+    "alarmCount" : "5532",
+    "alarmName" : "单体电压过高"
+  }, {
+    "alarmCount" : "89",
+    "alarmName" : "距离高压源达到6级危险范围，请立即停止操作！！！"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "距离高压源达到2级危险范"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "转台逆时针多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "主系统开启阀端口短路故障"
+  }, {
+    "alarmCount" : "8110026",
+    "alarmName" : "发动机冷却液位低"
+  }, {
+    "alarmCount" : "127804",
+    "alarmName" : "6轴传感器"
+  }, {
+    "alarmCount" : "310043",
+    "alarmName" : "终端LCD或显示屏故障"
+  }, {
+    "alarmCount" : "167",
+    "alarmName" : "档位过低"
+  }, {
+    "alarmCount" : "153",
+    "alarmName" : "转台顺时针多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "171",
+    "alarmName" : "GPS远程预锁机"
+  }, {
+    "alarmCount" : "34462659",
+    "alarmName" : "电机控制器CAN通讯故障"
+  }, {
+    "alarmCount" : "38796442",
+    "alarmName" : "SOC跳变报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "GPS五级报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "档位不到位"
+  }, {
+    "alarmCount" : "5082074",
+    "alarmName" : "OBD故障指示灯的命令"
+  }, {
+    "alarmCount" : "1130976",
+    "alarmName" : "安全带状态"
+  }, {
+    "alarmCount" : "129",
+    "alarmName" : "左限位报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "GPS本地预锁机"
+  }, {
+    "alarmCount" : "313244",
+    "alarmName" : "危险预警"
+  }, {
+    "alarmCount" : "146267",
+    "alarmName" : "温度差异报警"
+  }, {
+    "alarmCount" : "29116",
+    "alarmName" : "三臂无杆腔传感器故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "防溜缸阀端口断路故障"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "泵送接近开关 B 故障"
+  }, {
+    "alarmCount" : "1487",
+    "alarmName" : "放电过流"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "6臂展开多路阀端口断路或短路故障"
+  }, {
+    "alarmCount" : "1537",
+    "alarmName" : "第 11箱连接故障"
+  }, {
+    "alarmCount" : "310188",
+    "alarmName" : "车辆被盗(通过车辆防盗器)"
+  }, {
+    "alarmCount" : "6",
+    "alarmName" : "主缸 B 电磁阀短路"
+  }, {
+    "alarmCount" : "1300",
+    "alarmName" : "旁通阀端口断路故障"
+  }, {
+    "alarmCount" : "5709",
+    "alarmName" : "电机及控制器故障"
+  }, {
+    "alarmCount" : "122",
+    "alarmName" : "油温过高报警"
+  }, {
+    "alarmCount" : "8236",
+    "alarmName" : "低气压报警"
+  }, {
+    "alarmCount" : "285",
+    "alarmName" : "油温过高报警"
+  }, {
+    "alarmCount" : "8947011",
+    "alarmName" : "碰撞报警"
+  }, {
+    "alarmCount" : "10811",
+    "alarmName" : "YV5使能阀回路短路"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "五臂有杆腔传感器故障"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "滤油堵塞报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "GPS三级报警"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "距离高压源达到3级危险范"
+  }, {
+    "alarmCount" : "152",
+    "alarmName" : "6臂收回多路阀端口断路或短路故障"
+  } ]
+}

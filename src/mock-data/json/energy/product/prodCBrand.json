@@ -1,0 +1,15 @@
+{
+  "type" : "success",
+  "content" : "",
+  "data" : [ {
+    "brand_code" : "A14",
+    "month_count" : 66,
+    "brand_name" : "欧辉",
+    "day_count" : 3
+  }, {
+    "brand_code" : "A07",
+    "month_count" : 3,
+    "brand_name" : "风景",
+    "day_count" : 0
+  } ]
+}

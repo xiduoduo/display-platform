@@ -1,0 +1,10 @@
+{
+  "type" : "success",
+  "content" : "数据汇总查询成功",
+  "data" : {
+    "sumTaskNum" : 12,
+    "sumVehicles" : 10.0,
+    "sumMileage" : 8571400,
+    "sumRunTimeSpan" : 4052298
+  }
+}

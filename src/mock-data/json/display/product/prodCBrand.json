@@ -1,0 +1,40 @@
+{
+  "type" : "success",
+  "content" : "",
+  "data" : [ {
+    "brand_code" : "A01",
+    "month_count" : 515,
+    "brand_name" : "奥铃",
+    "day_count" : 1
+  }, {
+    "brand_code" : "A09",
+    "month_count" : 2158,
+    "brand_name" : "欧曼",
+    "day_count" : 114
+  }, {
+    "brand_code" : "A02",
+    "month_count" : 885,
+    "brand_name" : "欧马可",
+    "day_count" : 9
+  }, {
+    "brand_code" : "A26",
+    "month_count" : 28,
+    "brand_name" : "瑞沃",
+    "day_count" : 0
+  }, {
+    "brand_code" : "A16",
+    "month_count" : 96,
+    "brand_name" : "雷萨",
+    "day_count" : 0
+  }, {
+    "brand_code" : "A14",
+    "month_count" : 43,
+    "brand_name" : "欧辉",
+    "day_count" : 0
+  }, {
+    "brand_code" : "A08",
+    "month_count" : 99,
+    "brand_name" : "时代",
+    "day_count" : 9
+  } ]
+}

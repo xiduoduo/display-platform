@@ -1,0 +1,10 @@
+{
+  "type" : "success",
+  "content" : "风险预警统计获取成功",
+  "data" : {
+    "DELAYEND" : 600,
+    "DELAYSTART" : 2209,
+    "DETOURABNORMAL" : 0,
+    "MILEAGEOVERHALF" : 368
+  }
+}

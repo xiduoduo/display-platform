@@ -1,0 +1,54 @@
+{
+  "result" : "0",
+  "data" : [ {
+    "name" : "全部",
+    "token" : "ALL"
+  }, {
+    "code" : "A14",
+    "name" : "欧辉",
+    "token" : "OUHUI",
+    "child" : [ {
+      "code" : "094",
+      "name" : "纯电动"
+    }, {
+      "code" : "096",
+      "name" : "油电混合"
+    }, {
+      "code" : "098",
+      "name" : "燃料电池"
+    }, {
+      "code" : "099",
+      "name" : "LNG气电混合"
+    }, {
+      "code" : "Z-20734",
+      "name" : "CNG气电混合"
+    } ]
+  }, {
+    "code" : "A08",
+    "name" : "时代",
+    "token" : "SHIDAI",
+    "child" : [ {
+      "code" : "022",
+      "name" : "纯电动"
+    } ]
+  }, {
+    "code" : "A02",
+    "name" : "欧马可",
+    "token" : "OUMAKE",
+    "child" : [ {
+      "code" : "027",
+      "name" : "纯电动（T3）"
+    }, {
+      "code" : "028",
+      "name" : "燃料电池"
+    } ]
+  }, {
+    "code" : "A01",
+    "name" : "奥铃",
+    "token" : "AOLING",
+    "child" : [ {
+      "code" : "B06",
+      "name" : "纯电动"
+    } ]
+  } ]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="50" height="200" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+<polygon points="50,100 75,85 100,100 75,50" fill="#fff">  
+        
+    </polygon>
+<polygon points="50,200 75,185 100,200 75,150" fill="#fff">  
+        
+    </polygon>
+</svg>

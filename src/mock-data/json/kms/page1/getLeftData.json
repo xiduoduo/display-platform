@@ -1,0 +1,15 @@
+{
+  "type" : "success",
+  "content" : "车辆数取得成功",
+  "data" : {
+    "ONLINENUM" : 131024.0,
+    "ALLNUM" : 174026.0,
+    "FACTORY" : [ {
+      "NAME" : "ISF",
+      "NUM" : 59378.0
+    }, {
+      "NAME" : "ISG",
+      "NUM" : 114648.0
+    } ]
+  }
+}

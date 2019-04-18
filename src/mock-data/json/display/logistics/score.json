@@ -1,0 +1,15 @@
+{
+  "type" : "success",
+  "content" : "运输评价统计获取成功",
+  "data" : {
+    "TIMEUNDER" : "0%",
+    "MILEAGEUNDER" : "11%",
+    "MILEAGEMIDDLE" : "1%",
+    "MIDDLEGREATER" : "88%",
+    "SUMMARYUNDER" : "0%",
+    "SUMMARYMIDDLE" : "9%",
+    "TIMEGREATER" : "100%",
+    "SUMMARYGREATER" : "91%",
+    "TIMEMIDDLE" : "0%"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type" : "success",
+  "content" : "按任务类型分类统计成功",
+  "data" : [ {
+    "TYPE" : "可靠性",
+    "TASKNUM" : 6.0
+  }, {
+    "TYPE" : "可靠性试验",
+    "TASKNUM" : 3.0
+  }, {
+    "TYPE" : "可靠耐久",
+    "TASKNUM" : 1.0
+  }, {
+    "TYPE" : "耐久性",
+    "TASKNUM" : 2.0
+  } ]
+}

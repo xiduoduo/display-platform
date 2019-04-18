@@ -1,0 +1,65 @@
+@mixin clearfix {
+  &:before, &:after {
+    content: " ";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
+}
+.justify-center {
+  justify-content: center;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.align-center {
+  align-items: center;
+}
+.flex-direction-column {
+  flex-direction: column;
+}
+.display-flex {
+  display: flex;
+  &.flex-column {
+    @extend .flex-direction-column;
+  }
+  &.justify-content-center {
+    @extend .justify-center;
+  }
+  &.justify-speac-between {
+    @extend .justify-between;
+  }
+  &.align-items-center {
+    @extend .align-center;
+  }
+  &.justify-align-center {
+    @extend .justify-center;
+    @extend .align-center;
+  }
+}
+
+.clearfix {
+  @include clearfix();
+}
+
+.flex {
+  @extend .display-flex;
+}
+
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+
+// 单行文本溢出变省略号
+.text-overflow-single {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

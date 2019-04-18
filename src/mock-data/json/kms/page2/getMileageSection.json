@@ -1,0 +1,37 @@
+{
+	"type": "success",
+	"data": [{
+		"section": "0-5",
+		"num": 39289
+	}, {
+		"section": "5-10",
+		"num": 18096
+	}, {
+		"section": "10-15",
+		"num": 12445
+	}, {
+		"section": "15-20",
+		"num": 9510
+	}, {
+		"section": "20-25",
+		"num": 7137
+	}, {
+		"section": "25-30",
+		"num": 5002
+	}, {
+		"section": "30-35",
+		"num": 3414
+	}, {
+		"section": "35-40",
+		"num": 2009
+	}, {
+		"section": "40-45",
+		"num": 1089
+	}, {
+		"section": "45-50",
+		"num": 602
+	}, {
+		"section": "50以上",
+		"num": 453
+	}]
+}

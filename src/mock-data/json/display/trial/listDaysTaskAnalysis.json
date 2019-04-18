@@ -1,0 +1,170 @@
+{
+  "type" : "success",
+  "content" : "查询试验任务数据成功",
+  "data" : [ {
+    "dataDay" : "2019-01-08",
+    "carNum" : 4,
+    "totalRunTime" : 125483,
+    "totalMileage" : 1347500
+  }, {
+    "dataDay" : "2019-01-09",
+    "carNum" : 4,
+    "totalRunTime" : 110398,
+    "totalMileage" : 1060400
+  }, {
+    "dataDay" : "2019-01-10",
+    "carNum" : 4,
+    "totalRunTime" : 120756,
+    "totalMileage" : 1008200
+  }, {
+    "dataDay" : "2019-01-11",
+    "carNum" : 4,
+    "totalRunTime" : 115933,
+    "totalMileage" : 1011300
+  }, {
+    "dataDay" : "2019-01-12",
+    "carNum" : 4,
+    "totalRunTime" : 104286,
+    "totalMileage" : 919900
+  }, {
+    "dataDay" : "2019-01-13",
+    "carNum" : 4,
+    "totalRunTime" : 61029,
+    "totalMileage" : 672600
+  }, {
+    "dataDay" : "2019-01-14",
+    "carNum" : 4,
+    "totalRunTime" : 44584,
+    "totalMileage" : 491700
+  }, {
+    "dataDay" : "2019-01-15",
+    "carNum" : 4,
+    "totalRunTime" : 82631,
+    "totalMileage" : 572900
+  }, {
+    "dataDay" : "2019-01-16",
+    "carNum" : 5,
+    "totalRunTime" : 69433,
+    "totalMileage" : 353700
+  }, {
+    "dataDay" : "2019-01-17",
+    "carNum" : 5,
+    "totalRunTime" : 96838,
+    "totalMileage" : 66500
+  }, {
+    "dataDay" : "2019-01-18",
+    "carNum" : 5,
+    "totalRunTime" : 57859,
+    "totalMileage" : 545700
+  }, {
+    "dataDay" : "2019-01-19",
+    "carNum" : 5,
+    "totalRunTime" : 103361,
+    "totalMileage" : 490600
+  }, {
+    "dataDay" : "2019-01-20",
+    "carNum" : 5,
+    "totalRunTime" : 7378,
+    "totalMileage" : 28100
+  }, {
+    "dataDay" : "2019-01-21",
+    "carNum" : 5,
+    "totalRunTime" : 91225,
+    "totalMileage" : 900
+  }, {
+    "dataDay" : "2019-01-22",
+    "carNum" : 5,
+    "totalRunTime" : 109380,
+    "totalMileage" : 39600
+  }, {
+    "dataDay" : "2019-01-23",
+    "carNum" : 5,
+    "totalRunTime" : 11879,
+    "totalMileage" : 10300
+  }, {
+    "dataDay" : "2019-01-24",
+    "carNum" : 5,
+    "totalRunTime" : 103480,
+    "totalMileage" : 206000
+  }, {
+    "dataDay" : "2019-01-25",
+    "carNum" : 5,
+    "totalRunTime" : 136305,
+    "totalMileage" : 1025200
+  }, {
+    "dataDay" : "2019-01-26",
+    "carNum" : 5,
+    "totalRunTime" : 154627,
+    "totalMileage" : 1047100
+  }, {
+    "dataDay" : "2019-01-27",
+    "carNum" : 5,
+    "totalRunTime" : 51406,
+    "totalMileage" : 556900
+  }, {
+    "dataDay" : "2019-01-28",
+    "carNum" : 4,
+    "totalRunTime" : 136220,
+    "totalMileage" : 662100
+  }, {
+    "dataDay" : "2019-01-29",
+    "carNum" : 6,
+    "totalRunTime" : 104455,
+    "totalMileage" : 327000
+  }, {
+    "dataDay" : "2019-01-30",
+    "carNum" : 6,
+    "totalRunTime" : 80430,
+    "totalMileage" : 582500
+  }, {
+    "dataDay" : "2019-01-31",
+    "carNum" : 6,
+    "totalRunTime" : 808,
+    "totalMileage" : 4200
+  }, {
+    "dataDay" : "2019-02-01",
+    "carNum" : 6,
+    "totalRunTime" : 86335,
+    "totalMileage" : 0
+  }, {
+    "dataDay" : "2019-02-02",
+    "carNum" : 6,
+    "totalRunTime" : 86337,
+    "totalMileage" : 0
+  }, {
+    "dataDay" : "2019-02-03",
+    "carNum" : 6,
+    "totalRunTime" : 86337,
+    "totalMileage" : 0
+  }, {
+    "dataDay" : "2019-02-04",
+    "carNum" : 6,
+    "totalRunTime" : 86395,
+    "totalMileage" : 0
+  }, {
+    "dataDay" : "2019-02-05",
+    "carNum" : 6,
+    "totalRunTime" : 86365,
+    "totalMileage" : 0
+  }, {
+    "dataDay" : "2019-02-06",
+    "carNum" : 6,
+    "totalRunTime" : 86366,
+    "totalMileage" : 0
+  }, {
+    "dataDay" : "2019-02-07",
+    "carNum" : 6,
+    "totalRunTime" : 86365,
+    "totalMileage" : 0
+  }, {
+    "dataDay" : "2019-02-08",
+    "carNum" : 6,
+    "totalRunTime" : 86364,
+    "totalMileage" : 0
+  }, {
+    "dataDay" : "2019-02-09",
+    "carNum" : 6,
+    "totalRunTime" : 86365,
+    "totalMileage" : 0
+  } ]
+}

@@ -1,0 +1,10 @@
+{
+  "type" : "success",
+  "content" : "当前数据汇总查询成功",
+  "data" : {
+    "doingRunTimeSpan" : 4052298,
+    "doingTaskNum" : 8,
+    "doingVehicles" : 6,
+    "doingMileage" : 8571400
+  }
+}

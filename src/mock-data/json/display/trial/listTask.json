@@ -1,0 +1,53 @@
+{
+  "type" : "success",
+  "content" : "获取进行中任务完成度列表成功",
+  "data" : [ {
+    "RUN_MILEAGE" : 0.0721,
+    "ID" : 281.0,
+    "NAME" : "K1电动车EP2阶段可靠耐久试验"
+  }, {
+    "RUN_MILEAGE" : 0.0622,
+    "ID" : 201.0,
+    "NAME" : "康明斯国六委托项目试验"
+  }, {
+    "RUN_MILEAGE" : 0.0458,
+    "ID" : 181.0,
+    "NAME" : "M4中卡首批车道路试验"
+  }, {
+    "RUN_MILEAGE" : 0.0323,
+    "ID" : 182.0,
+    "NAME" : "M4轻卡4JB1道路试验"
+  }, {
+    "RUN_MILEAGE" : 1.0E-4,
+    "ID" : 241.0,
+    "NAME" : "康明斯路试"
+  }, {
+    "RUN_MILEAGE" : 0.0,
+    "ID" : 221.0,
+    "NAME" : "M4轻卡4JB1道路试验"
+  }, {
+    "RUN_MILEAGE" : 0.0,
+    "ID" : 224.0,
+    "NAME" : "M4轻卡3t-F3.8国六试验"
+  }, {
+    "RUN_MILEAGE" : 0.0,
+    "ID" : 226.0,
+    "NAME" : "M4轻卡1880-F2.8国六试验"
+  }, {
+    "RUN_MILEAGE" : 0.0,
+    "ID" : 223.0,
+    "NAME" : "M4轻卡2.5t-F3.8国六试验"
+  }, {
+    "RUN_MILEAGE" : 0.0,
+    "ID" : 261.0,
+    "NAME" : "V1-ISF2.8国VI项目可靠耐久试验"
+  }, {
+    "RUN_MILEAGE" : 0.0,
+    "ID" : 222.0,
+    "NAME" : "M4轻卡4JB1道路试验"
+  }, {
+    "RUN_MILEAGE" : 0.0,
+    "ID" : 225.0,
+    "NAME" : "M4轻卡3t-F3.8国六试验"
+  } ]
+}

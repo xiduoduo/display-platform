@@ -1,0 +1,95 @@
+{
+  "type" : "success",
+  "content" : "查询服务站今日在站车辆数成功",
+  "data" : [ {
+    "provice" : "河北省",
+    "count" : 88
+  }, {
+    "provice" : "山东省",
+    "count" : 82
+  }, {
+    "provice" : "河南省",
+    "count" : 64
+  }, {
+    "provice" : "北京市",
+    "count" : 54
+  }, {
+    "provice" : "江苏省",
+    "count" : 46
+  }, {
+    "provice" : "四川省",
+    "count" : 42
+  }, {
+    "provice" : "广东省",
+    "count" : 41
+  }, {
+    "provice" : "内蒙古自治区",
+    "count" : 34
+  }, {
+    "provice" : "浙江省",
+    "count" : 33
+  }, {
+    "provice" : "山西省",
+    "count" : 33
+  }, {
+    "provice" : "黑龙江省",
+    "count" : 32
+  }, {
+    "provice" : "安徽省",
+    "count" : 32
+  }, {
+    "provice" : "辽宁省",
+    "count" : 27
+  }, {
+    "provice" : "江西省",
+    "count" : 21
+  }, {
+    "provice" : "贵州省",
+    "count" : 19
+  }, {
+    "provice" : "陕西省",
+    "count" : 16
+  }, {
+    "provice" : "云南省",
+    "count" : 15
+  }, {
+    "provice" : "上海市",
+    "count" : 14
+  }, {
+    "provice" : "青海省",
+    "count" : 13
+  }, {
+    "provice" : "湖北省",
+    "count" : 12
+  }, {
+    "provice" : "新疆维吾尔自治区",
+    "count" : 11
+  }, {
+    "provice" : "甘肃省",
+    "count" : 11
+  }, {
+    "provice" : "吉林省",
+    "count" : 9
+  }, {
+    "provice" : "湖南省",
+    "count" : 9
+  }, {
+    "provice" : "福建省",
+    "count" : 7
+  }, {
+    "provice" : "西藏自治区",
+    "count" : 5
+  }, {
+    "provice" : "广西壮族自治区",
+    "count" : 5
+  }, {
+    "provice" : "重庆市",
+    "count" : 5
+  }, {
+    "provice" : "宁夏回族自治区",
+    "count" : 4
+  }, {
+    "provice" : "海南省",
+    "count" : 2
+  } ]
+}

@@ -1,0 +1,266 @@
+/**
+只放皮肤公用样式：禁止放其他样式
+ */
+@include colors {
+  .svg-font {
+    color: $color00de98 !important;
+  }
+  /deep/ .number-blocks {
+    .block-1 {
+      &:before {
+        background: url($blockTop01) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      &:after {
+        background: url($blockBtm01) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      .box {
+        background: url($blockBg01) repeat-y;
+        background-size: 100% 1px;
+      }
+    }
+    .block-2 {
+      &:before {
+        background: url($blockTop02) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      &:after {
+        background: url($blockBtm02) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      .box {
+        background: url($blockBg02) repeat-y;
+        background-size: 100% 1px;
+      }
+    }
+
+    .block-3 {
+      &:before {
+        background: url($blockTop03) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      &:after {
+        background: url($blockBtm03) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      .box {
+        background: url($blockBg03) repeat-y;
+        background-size: 100% 1px;
+      }
+    }
+
+    .block-4 {
+      &:before {
+        background: url($blockTop04) -1px no-repeat;
+        background-size: 100% 100%;
+      }
+
+      &:after {
+        background: url($blockBtm04) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      .box {
+        background: url($blockBg04) repeat-y;
+        background-size: 100% 1px;
+      }
+    }
+
+    .block-5 {
+      &:before {
+        background: url($blockTop05) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      &:after {
+        background: url($blockBtm05) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      .box {
+        background: url($blockBg05) repeat-y;
+        background-size: 100% 1px;
+      }
+    }
+
+    .block-6 {
+      &:before {
+        background: url($blockTop06) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      &:after {
+        background: url($blockBtm06) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      .box {
+        background: url($blockBg06) repeat-y;
+        background-size: 100% 1px;
+      }
+    }
+
+    .block-7 {
+      &:before {
+        background: url($blockTop07) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      &:after {
+        background: url($blockBtm07) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      .box {
+        background: url($blockBg07) repeat-y;
+        background-size: 100% 1px;
+      }
+    }
+    .block-8 {
+      &:before {
+        background: url($blockTop08) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      &:after {
+        background: url($blockBtm08) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      .box {
+        background: url($blockBg08) repeat-y;
+        background-size: 100% 1px;
+      }
+    }
+    .block-9 {
+      &:before {
+        background: url($blockTop09) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      &:after {
+        background: url($blockBtm09) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      .box {
+        background: url($blockBg09) repeat-y;
+        background-size: 100% 1px;
+      }
+    }
+    .block-10 {
+      &:before {
+        background: url($blockTop10) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      &:after {
+        background: url($blockBtm10) no-repeat;
+        background-size: 100% 100%;
+      }
+
+      .box {
+        background: url($blockBg10) repeat-y;
+        background-size: 100% 1px;
+      }
+    }
+  }
+  .run-num{
+    .run-num-content {
+      .run-num-box {
+        border-radius: 0;
+        box-shadow: none;
+        .one-num {
+          border-right: 2px solid #333;
+          border-radius: 5px;
+          background: -ms-linear-gradient(135deg,$color9cf625 0,$color1ed89a 100%);
+          background: -webkit-linear-gradient(135deg,$color9cf625 0,$color1ed89a 100%);
+          background: linear-gradient(135deg,$color9cf625 0,$color1ed89a 100%);
+        }
+        .one-num .item {
+          color: $global;
+        }
+      }
+      .production {
+        .run-num-box {
+          .one-num {
+            background: none;
+          }
+          .one-num .item {
+            color: $color00de98;
+          }
+        }
+      }
+    }
+  }
+  .day-factory-num, .l-summary, .summary-data, .service {
+    /deep/ .run-num-content {
+      .run-num-box {
+        border-radius: 0;
+        box-shadow: none;
+
+        .one-num {
+          border-right: 2px solid #333;
+          border-radius: 5px;
+          background: -ms-linear-gradient(135deg, $color9cf625 0, $color1ed89a 100%);
+          background: -webkit-linear-gradient(135deg, $color9cf625 0, $color1ed89a 100%);
+          background: linear-gradient(135deg, $color9cf625 0, $color1ed89a 100%);
+        }
+
+        .one-num .item {
+          color: $global;
+        }
+      }
+    }
+  }
+  .swiper-cars /deep/ .production {
+    .run-num-box {
+      .one-num {
+        background: none;
+      }
+      .one-num .item {
+        color: $color00de98;
+      }
+    }
+  }
+  .layout-bg {
+    background-color: $bg;
+  }
+  .service {
+    .section-block {
+      .lpn {
+        color: $color00de98;
+        border-color: $color00de98;
+      }
+    }
+    .info-line-all {
+      .car-con .lpn {
+        color: $color00de98 !important;
+        border-color: $color00de98 !important;
+      }
+    }
+    .progress-all {
+      .progress {
+        background-image: linear-gradient(0deg,$color00de98 0,$color9cf625 100%) !important;
+        background-image: -webkit-linear-gradient(0deg,$color00de98 0,$color9cf625 100%) !important;
+        background-image: -ms-linear-gradient(0deg,$color00de98 0,$color9cf625 100%) !important;
+      }
+      .info {
+        .info-item {
+          &:nth-of-type(2) {
+            i {
+              background-color: $color9cf625 !important;
+            }
+          }
+        }
+      }
+    }
+  }
+}

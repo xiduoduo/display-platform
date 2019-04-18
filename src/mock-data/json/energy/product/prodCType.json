@@ -1,0 +1,26 @@
+{
+  "type" : "error",
+  "content" : "",
+  "data" : [ {
+    "brand_code" : "A14",
+    "type_name" : "纯电动",
+    "month_count" : 56,
+    "brand_name" : "欧辉",
+    "type_code" : "094",
+    "day_count" : 1
+  }, {
+    "brand_code" : "A14",
+    "type_name" : "油电混合",
+    "month_count" : 5,
+    "brand_name" : "欧辉",
+    "type_code" : "096",
+    "day_count" : 0
+  }, {
+    "brand_code" : "A14",
+    "type_name" : "LNG气电混合",
+    "month_count" : 5,
+    "brand_name" : "欧辉",
+    "type_code" : "099",
+    "day_count" : 2
+  } ]
+}

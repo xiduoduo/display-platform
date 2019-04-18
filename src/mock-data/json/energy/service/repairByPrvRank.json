@@ -1,0 +1,32 @@
+{
+  "type" : "success",
+  "content" : "查询各省近一个月服务真实性排行成功",
+  "data" : [ {
+    "province" : "宁夏回族自治区",
+    "value" : "100.0"
+  }, {
+    "province" : "广东省",
+    "value" : "40.0"
+  }, {
+    "province" : "贵州省",
+    "value" : "40.0"
+  }, {
+    "province" : "北京市",
+    "value" : "10.2"
+  }, {
+    "province" : "陕西省",
+    "value" : "2.0"
+  }, {
+    "province" : "河北省",
+    "value" : "0.0"
+  }, {
+    "province" : "河南省",
+    "value" : "0.0"
+  }, {
+    "province" : "天津市",
+    "value" : "0.0"
+  }, {
+    "province" : "甘肃省",
+    "value" : "0.0"
+  } ]
+}

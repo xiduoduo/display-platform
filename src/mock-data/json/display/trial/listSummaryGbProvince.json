@@ -1,0 +1,20 @@
+{
+  "type" : "success",
+  "content" : "按省份进行数据汇总查询成功",
+  "data" : [ {
+    "PROVINCE" : "黑龙江省",
+    "PROVINCEVEHICLES" : 1.0
+  }, {
+    "PROVINCE" : "北京市",
+    "PROVINCEVEHICLES" : 1.0
+  }, {
+    "PROVINCE" : "内蒙古自治区",
+    "PROVINCEVEHICLES" : 2.0
+  }, {
+    "PROVINCE" : "重庆市",
+    "PROVINCEVEHICLES" : 1.0
+  }, {
+    "PROVINCE" : "安徽省",
+    "PROVINCEVEHICLES" : 1.0
+  } ]
+}
